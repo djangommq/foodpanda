@@ -13,6 +13,7 @@ from mongodb_utils import get_db
 importlib.reload(sys)
 
 # 创建链接数据库的对象
+# 练习git 的使用
 mongo_client=get_db()
 
 headers = {
