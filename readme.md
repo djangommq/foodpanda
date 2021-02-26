@@ -10,7 +10,3 @@
 运行foodpanda.py
 
 ```
-<<<<<<< HEAD
-=======
-dwhugcuwiehdiowhdien哈哈哈哈哈
->>>>>>> a835f82692978ef63558c3786c6e83847050a5d6
