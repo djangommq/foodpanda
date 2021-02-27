@@ -10,4 +10,5 @@
 运行foodpanda.py
 
 ```
-jngvufhirform
+jngvufhirfor
+拜托拜托
